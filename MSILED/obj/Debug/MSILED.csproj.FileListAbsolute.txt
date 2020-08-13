@@ -1,0 +1,11 @@
+f:\swprojects\MSILED\MSILED\bin\Debug\sdkdll\MysticLight_SDK.dll
+f:\swprojects\MSILED\MSILED\bin\Debug\MSILED.exe.config
+f:\swprojects\MSILED\MSILED\bin\Debug\MSILED.exe
+f:\swprojects\MSILED\MSILED\bin\Debug\MSILED.pdb
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.frmTest.resources
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.Properties.Resources.resources
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.csproj.GenerateResource.cache
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.csproj.CoreCompileInputs.cache
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.exe
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.pdb
+f:\swprojects\MSILED\MSILED\obj\Debug\MSILED.csprojAssemblyReference.cache
